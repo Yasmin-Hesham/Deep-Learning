@@ -11,7 +11,9 @@ Building a pipeline to process real-world, user-supplied images. Given the imaag
 **Application:**
 - Predicting Dog Breed
 ![output](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/project2/sample_output/dog.PNG)
+
 - Detecting human face and estimating dog breed
 ![output](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/project2/sample_output/human.PNG)
+
 - Showing an error input if neither detection human face nor dog.
 ![output](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/project2/sample_output/cat.PNG)

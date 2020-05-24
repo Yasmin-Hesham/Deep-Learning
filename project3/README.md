@@ -5,3 +5,5 @@
 Building RNN and LSTM algorithm using Pytorch to generate _new text_ from TV Scripts.
 
 **Output:**
+![output](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/project3/sample_output/part_of_script.PNG)
+The following image is a sample of TV Script generated.

@@ -13,7 +13,6 @@ Building and Deploying Neural Networks which predicts the sentiment of a user-pr
 - Positive Reviews:
    - ![pos1](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/5-Deploying%20a%20Sentiment%20Analysis%20Model/sample_output/pos.PNG)
    - ![pos2](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/5-Deploying%20a%20Sentiment%20Analysis%20Model/sample_output/pos2.PNG)  
-
 - Negative Reviews:
    - ![neg1](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/5-Deploying%20a%20Sentiment%20Analysis%20Model/sample_output/neg.PNG)
    - ![neg2](https://github.com/Yasmin-Hesham/Deep-Learning-Udacity-Nanodegree/blob/master/5-Deploying%20a%20Sentiment%20Analysis%20Model/sample_output/neg.PNG)
